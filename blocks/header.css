@@ -7,7 +7,6 @@
   letter-spacing: -11.25px;
   text-align: center;
   margin: 0;
-  z-index: 0;
 }
 
 .header__box {
@@ -28,7 +27,6 @@
   );
   backdrop-filter: blur(15px);
   margin: -65px auto 0;
-  z-index: 1;
 }
 
 .header__subtitle {
@@ -89,4 +87,7 @@
   .header__subtitle {
     font-size: 16px;
   }
+}
+
+@media screen and (max-width) {
 }

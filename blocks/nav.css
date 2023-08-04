@@ -1,11 +1,21 @@
 .nav {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
 }
 
 .nav__links {
+  list-style-type: none;
 }
 
 .nav__link {
+  font-size: 18px;
+  line-height: 89.937%;
+  letter-spacing: -0.9px;
+  text-decoration: none;
+  color: #fff;
 }
 
 .nav__social-icon {
+  cursor: pointer;
 }

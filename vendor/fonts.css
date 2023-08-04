@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "HelmetNeue-Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/HelmetNeue-Regular.woff2") format("woff2"),
+    url("./fonts/HelmetNeue-Regular.woff") format("woff");
+}

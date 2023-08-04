@@ -89,5 +89,9 @@
   }
 }
 
-@media screen and (max-width) {
+@media screen and (max-width: 470px) {
+  .header__title {
+    font-size: 50px;
+    margin-bottom: 50px;
+  }
 }
